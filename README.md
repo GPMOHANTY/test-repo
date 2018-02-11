@@ -1,2 +1,2 @@
-# test-repo
-A simple test for learning GitHub
+# Test Repo
+A Simple Test for learning GitHub - updated
